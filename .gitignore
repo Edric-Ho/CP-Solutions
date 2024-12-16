@@ -1,0 +1,17 @@
+# Ignore IDE configurations
+**/.idea/
+**/.vscode/
+**/.DS_Store
+
+# Ignore compiled files
+*.class
+*.pyc
+*.o
+*.out
+
+# Ignore logs
+*.log
+
+# Ignore build directories
+**/build/
+**/target/
